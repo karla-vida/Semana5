@@ -1,3 +1,6 @@
 import { saudacao } from "./saudacao.js";
 
-console.log(saudacao("Olá"));
+import saudacaoEspecial from "./saudacao-especial.js";
+
+console.log(saudacaoEspecial("Karla"));
+
